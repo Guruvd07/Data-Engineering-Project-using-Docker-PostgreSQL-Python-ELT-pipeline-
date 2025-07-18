@@ -101,7 +101,7 @@ SELECT * FROM users;
 Returns:
 | id | first_name | last_name | email | date_of_birth |
 |----|------------|-----------|-------|---------------|
-| 1  | John       | Doe       | john.doe@example.com | 1990-01-01 |
+| 1  | Guru       | Dahiphale       | guruprasaddahiphale7@gmail.com | 19-04-2004 |
 | ... | ...        | ...       | ...   | ...           |
 
 --------------------------------------------------
